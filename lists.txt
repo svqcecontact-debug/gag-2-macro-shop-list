@@ -43,12 +43,12 @@ Supersize Mushroom
 Gnome
 Flashbang
 Basic Pot
-Strawberry (gear)
 Legendary Sprinkler
 Invisibility Mushroom
 Teleporter
 Wheelbarrow
 Super Watering Can
+Super Sprinkler
 
 [props]
 Ladder crate
